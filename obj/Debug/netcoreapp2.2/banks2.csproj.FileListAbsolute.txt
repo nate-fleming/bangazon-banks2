@@ -1,0 +1,11 @@
+/Users/natefleming/workspace/csharp-exercises/banks2/bin/Debug/netcoreapp2.2/banks2.deps.json
+/Users/natefleming/workspace/csharp-exercises/banks2/bin/Debug/netcoreapp2.2/banks2.runtimeconfig.json
+/Users/natefleming/workspace/csharp-exercises/banks2/bin/Debug/netcoreapp2.2/banks2.runtimeconfig.dev.json
+/Users/natefleming/workspace/csharp-exercises/banks2/bin/Debug/netcoreapp2.2/banks2.dll
+/Users/natefleming/workspace/csharp-exercises/banks2/bin/Debug/netcoreapp2.2/banks2.pdb
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.csprojAssemblyReference.cache
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.csproj.CoreCompileInputs.cache
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.AssemblyInfoInputs.cache
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.AssemblyInfo.cs
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.dll
+/Users/natefleming/workspace/csharp-exercises/banks2/obj/Debug/netcoreapp2.2/banks2.pdb
